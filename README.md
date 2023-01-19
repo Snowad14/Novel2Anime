@@ -1,2 +1,2 @@
 # Novel2Anime
-My thoughts to create a software that converts a light novel into the closest thing to an anime (animated audio book)
+This repo contains what I think I can use to create a project I've had in mind for years
